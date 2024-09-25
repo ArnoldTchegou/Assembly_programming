@@ -1,0 +1,16 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	pile              0000
+//	main              0001
+//	strncpy           0006
+//	IF                000C
+//	Do                000E
+//	fin               0018
+//	stackend          0038
+//	fini              0038
+//	nombre            0039
+//	source            003A
+//	destination       0040
+

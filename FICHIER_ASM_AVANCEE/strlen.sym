@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	pile              0000
+//	main              0001
+//	strlen            0004
+//	loop              000A
+//	fin               000E
+//	stackend          001D
+//	fini              001D
+//	chaine            001E
+

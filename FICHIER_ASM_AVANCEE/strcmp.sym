@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	pile              0000
+//	main              0001
+//	strcmp            0005
+//	while_cond1       0010
+//	while_cond2       0012
+//	fin               001C
+//	stackend          002C
+//	fini              002C
+//	chaine1           002D
+//	chaine2           0039
+

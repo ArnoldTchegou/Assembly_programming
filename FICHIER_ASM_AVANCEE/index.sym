@@ -1,0 +1,16 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	pile              0000
+//	main              0001
+//	loop              0004
+//	index             000A
+//	while             0012
+//	resultat          0018
+//	fin               0019
+//	stackend          0028
+//	fini              0028
+//	caract            0029
+//	chaine            002A
+

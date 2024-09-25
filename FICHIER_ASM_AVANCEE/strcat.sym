@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	pile              0000
+//	main              0001
+//	strcat            0005
+//	while             000B
+//	Do                000F
+//	fill              0016
+//	stackend          0028
+//	fini              0028
+//	source            0029
+//	destination       002E
+
